@@ -22,11 +22,11 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 10000)) # Duration limit for p
 
 LOGGER_ID = int(getenv("LOGGER_ID", None)) # Chat id of a group for logging bot's activities
 
-OWNER_ID = int(getenv("OWNER_ID", 7403621976)) # Get this value from @MissRose_bot on Telegram by /id
+OWNER_ID = int(getenv("OWNER_ID", 2073178010)) # Get this value from @MissRose_bot on Telegram by /id
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SYNTAX_WORLD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/FRIENDS_ZONE_CHATTING_GROUP")
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/VIKRANT_WORLD")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/FRIENDS_ZONE_CHATTING_GROUP")
 
 # Get your pyrogram v2 session from https://telegram.tools/session-string-generator#pyrogram on Telegram
 
