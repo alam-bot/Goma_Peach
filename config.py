@@ -42,16 +42,16 @@ STRING5 = getenv("STRING_SESSION5", None)
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/sz8xwz.jpg"
+    "START_IMG_URL", "https://graph.org/file/307e9ae4672c7b09071de-d136b56f1438c3a225.jpg"
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/9cevdg.jpg"
+    "PING_IMG_URL", "https://graph.org/file/307e9ae4672c7b09071de-d136b56f1438c3a225.jpg"
 )
 
-PLAYLIST_IMG_URL = "https://files.catbox.moe/i493lf.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/307e9ae4672c7b09071de-d136b56f1438c3a225.jpg"
 
-STATS_IMG_URL = "https://files.catbox.moe/i0qmgf.jpg"
+STATS_IMG_URL = "https://graph.org/file/307e9ae4672c7b09071de-d136b56f1438c3a225.jpg"
 
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/8e3552aa743ffdb6f18c9.jpg"
 
@@ -87,7 +87,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY") # Get it from http://dashboard.heroku.
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/kidoocoder/VIKRANT",
+    "https://github.com/Samhere8412/Buggu_Music_new",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
