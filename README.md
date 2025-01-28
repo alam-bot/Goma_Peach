@@ -1,2 +1,2 @@
 
-*** PRAINDA  ***
+*** PARINDA  ***
